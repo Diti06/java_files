@@ -29,6 +29,7 @@ import java.util.Scanner;
             int[] array= new int[i];
 
             System.out.println("the sorted array is "+ Arrays.toString(arr));
+            System.out.println("the above given is sorted array");
 
         }
     }
